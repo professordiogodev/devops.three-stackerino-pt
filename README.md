@@ -289,8 +289,7 @@ git push
 
 Na tarefa do Teams, entrega:
 
-1. O **link do teu fork** no GitHub (ex.: `https://github.com/joana/devops.three-stackerino-pt`), com o commit do desafio.
-2. **7 prints**, com os nomes de ficheiro abaixo. Em todos os prints de terminal tem de se ver o **teu utilizador no prompt**.
+**7 prints**, com os nomes de ficheiro abaixo. Em todos os prints de terminal tem de se ver o **teu utilizador no prompt**.
 
 | Print           | O que tem de mostrar                                                                                                   |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------- |
